@@ -27,7 +27,7 @@ public class OrientadoObjeto11UltimoExercicio {
         System.out.println(vis[0].toString());
         
         vis[1] = new Visualizacao(a[1],v[2]);
-        vis[1].avaliar(15.1f);
+        vis[1].avaliar(15.6f);
         System.out.println(vis[1].toString());
         
     }
